@@ -1,0 +1,157 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+color: #40514E;
+;
+
+
+}
+
+
+p{
+
+margin: auto;
+
+
+}
+a{
+  color: #11999E;
+
+
+}
+a:hover {
+  color: #EAF6F6;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+  line-height: 2;
+
+
+}
+h2{
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: bold;
+
+}
+h3{
+   color: #11999E;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 105px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 7%;
+}
+
+.mountain-img{
+  width: 25%;
+}
+
+
+
+
+
+.middle-container{
+  margin: 100px 0;
+
+
+}
+.skills-img{
+  width: 5%;
+  margin-top: 70px;
+
+}
+
+.brains{
+  width: 5%;
+  margin-bottom: 20px;
+}
+.profile-img{
+  width: 17%;
+
+}
+.name{
+  width: 40%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+.skills-img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skills-img2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.phone{
+
+  width: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  padding-top: 0;
+}
+
+.skill-row{
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom1{
+  padding-top: 10;
+  text-align: center;
+}
+.left{
+  width: 10%;
+
+  display: inline-block;
+
+}
+.middle{
+  width: 10%;
+
+  display: inline-block;
+}
+.right{
+  width: 10%;
+
+  display: inline-block;
+
+}
+.b123{
+  width: 22%;
+}
+.bottom1{
+  padding-top: 100px;
+}
+.ref1{
+  display: block;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px 0 20px;
+
+
+}
+.flat-icon{
+  font-size: 0.7rem;
+}
