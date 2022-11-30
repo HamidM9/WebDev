@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.root {
+  padding-top: 5px;
+  text-align: center;
+}
+
+.heading {
+  margin: 200px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.btn-red {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: red;
+  font-size: 25px;
+  background: red;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.btn-blue {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: blue;
+  font-size: 25px;
+  background: blue;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.btn-white {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: white;
+  font-size: 25px;
+  background: white;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.btn-black {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: black;
+  font-size: 25px;
+  background: black;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
